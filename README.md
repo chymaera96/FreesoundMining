@@ -5,7 +5,7 @@ A Jupyter Notebook for mining noise datasets using the Freesound API. The notebo
 
 ```shell
 
-https://github.com/MTG/freesound-python.git
+git clone https://github.com/MTG/freesound-python.git
 python setup.py install
 
 ```
